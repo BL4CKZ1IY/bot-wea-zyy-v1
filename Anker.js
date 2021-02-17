@@ -67,9 +67,9 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:ANKER\n'
-            + 'ORG:Owner DARK BOT;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n'
+            + 'FN:Zyystore\n'
+            + 'ORG:Owner ManZyy store;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6289514559295:+62 895-1455-9295\n'
             + 'END:VCARD'
 
 prefix = "!"
